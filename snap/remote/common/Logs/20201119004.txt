@@ -1,0 +1,32 @@
+[18:26:52] [Logger] Open
+[18:26:52] [SkinManager] Loading from "/snap/remote/current/bin/skin"
+[18:26:52] [SkinManager] 1 glyph pages loaded:
+[18:26:52] [SkinManager] Page "skin" loaded 161 images from /snap/remote/current/bin/skin
+[18:26:52] [GlyphManager] Loading from "/snap/remote/current/resources/glyphs"
+[18:26:52] [GlyphManager] 2 glyph pages loaded:
+[18:26:52] [GlyphManager] Page "device" loaded 87 images from /snap/remote/current/resources/glyphs/device
+[18:26:52] [GlyphManager] Page "display" loaded 55 images from /snap/remote/current/resources/glyphs/display
+[18:26:52] [App] Platform: Linux
+[18:26:52] [App] Number of logical CPU cores: 4
+[18:26:52] [App] Display #0 (1024x768) offers mode #0 (1024x768).
+[18:26:52] [App] Display #0 (1024x768) offers mode #1 (848x480).
+[18:26:52] [App] Display #0 (1024x768) offers mode #2 (800x600).
+[18:26:52] [App] Display #0 (1024x768) offers mode #3 (800x600).
+[18:26:52] [App] Display #0 (1024x768) offers mode #4 (640x480).
+[18:26:52] [App] Binary path: /snap/remote/current/bin
+[18:26:52] [App] Application Data path: /home/santhosh/snap/remote/common
+[18:26:52] [App] Common Data path: /home/santhosh/snap/remote/common
+[18:26:52] [App] Resources Specific path: /snap/remote/current/bin
+[18:26:52] [App] Resources Shared path: /snap/remote/current/resources
+[18:26:52] [App] 1 IP address found:
+[18:26:52] [App] - 10.1.17.92
+[18:26:52] [LanguageManager] Loading from "/home/santhosh/snap/remote/common"
+[18:26:52] [LanguageManager] 0 langauges loaded
+[18:26:52] [AudioOutManager] Loading audios from "/snap/remote/current/bin/audio"
+[18:26:52] [AudioOutManager] 0 files loaded
+[18:26:52] [DeviceManager] Broadcasting to:
+[18:26:52] [DeviceManager] - 255.255.255.255
+[18:26:52] [DeviceManager] - 10.255.255.255
+[18:26:52] [App] Failed to create a hardware renderer: 'Failed to access the SoundFont /usr/share/sounds/sf2/FluidR3_GM.sf2' falling back to software renderer...
+[18:26:58] [App] debug counter = 0
+[18:26:58] [Logger] Close
